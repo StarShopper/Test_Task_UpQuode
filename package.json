@@ -1,0 +1,22 @@
+{
+  "name": "test_task_upquode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarShopper/Test_Task_UpQuode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarShopper/Test_Task_UpQuode/issues"
+  },
+  "homepage": "https://github.com/StarShopper/Test_Task_UpQuode#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
